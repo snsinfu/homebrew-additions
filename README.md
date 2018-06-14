@@ -1,0 +1,3 @@
+# Additional Homebrew formula
+
+- wscat
